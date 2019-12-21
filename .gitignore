@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+
+
+# IntelliJ project files
+
+*.iml
+out
+gen
+/.idea/
+/BLOG/.idea/
+/BLOG/.mvn/
+/BLOG/HELP.md
+/BLOG/mvnw
+/BLOG/mvnw.cmd
+/BLOG/.gitignore
+/BLOG/dubbo-registry/
+/BLOG/BLOG_USER_SERVICE/target/
+/BLOG/BLOG_API/target/
+/BLOG/BLOG_WEB/target/
